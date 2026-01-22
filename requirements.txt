@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy==1.4.22
+pydantic
+requests
+python-dotenv
+psycopg2-binary
+pytest
+black
+flake8
